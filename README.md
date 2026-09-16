@@ -1,8 +1,10 @@
 2026/09/16 15:24:39
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: andrewdominguez95@gmail.com, peanut7248@aol.com
-At: 2026-09-16 15:25:39
-Id: bvb5wKGO
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: pvdental@aol.com, rakadrian@aol.com
+At: 2026-09-16 15:26:18
+Id: 2IJYnIhI
